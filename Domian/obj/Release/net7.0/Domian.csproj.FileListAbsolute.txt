@@ -1,0 +1,28 @@
+G:\FinalProjectAPIAndMVC\FinalProject\Domian\bin\Release\net7.0\Domian.deps.json
+G:\FinalProjectAPIAndMVC\FinalProject\Domian\bin\Release\net7.0\Domian.runtimeconfig.json
+G:\FinalProjectAPIAndMVC\FinalProject\Domian\bin\Release\net7.0\Domian.dll
+G:\FinalProjectAPIAndMVC\FinalProject\Domian\bin\Release\net7.0\Domian.pdb
+G:\FinalProjectAPIAndMVC\FinalProject\Domian\obj\Release\net7.0\Domian.csproj.AssemblyReference.cache
+G:\FinalProjectAPIAndMVC\FinalProject\Domian\obj\Release\net7.0\Domian.GeneratedMSBuildEditorConfig.editorconfig
+G:\FinalProjectAPIAndMVC\FinalProject\Domian\obj\Release\net7.0\Domian.AssemblyInfoInputs.cache
+G:\FinalProjectAPIAndMVC\FinalProject\Domian\obj\Release\net7.0\Domian.AssemblyInfo.cs
+G:\FinalProjectAPIAndMVC\FinalProject\Domian\obj\Release\net7.0\Domian.csproj.CoreCompileInputs.cache
+G:\FinalProjectAPIAndMVC\FinalProject\Domian\obj\Release\net7.0\Domian.dll
+G:\FinalProjectAPIAndMVC\FinalProject\Domian\obj\Release\net7.0\refint\Domian.dll
+G:\FinalProjectAPIAndMVC\FinalProject\Domian\obj\Release\net7.0\Domian.pdb
+G:\FinalProjectAPIAndMVC\FinalProject\Domian\obj\Release\net7.0\Domian.genruntimeconfig.cache
+G:\FinalProjectAPIAndMVC\FinalProject\Domian\obj\Release\net7.0\ref\Domian.dll
+D:\BackUp Project\ITI_FinalProject_LastVersion\Domian\bin\Release\net7.0\Domian.deps.json
+D:\BackUp Project\ITI_FinalProject_LastVersion\Domian\bin\Release\net7.0\Domian.runtimeconfig.json
+D:\BackUp Project\ITI_FinalProject_LastVersion\Domian\bin\Release\net7.0\Domian.dll
+D:\BackUp Project\ITI_FinalProject_LastVersion\Domian\bin\Release\net7.0\Domian.pdb
+D:\BackUp Project\ITI_FinalProject_LastVersion\Domian\obj\Release\net7.0\Domian.csproj.AssemblyReference.cache
+D:\BackUp Project\ITI_FinalProject_LastVersion\Domian\obj\Release\net7.0\Domian.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackUp Project\ITI_FinalProject_LastVersion\Domian\obj\Release\net7.0\Domian.AssemblyInfoInputs.cache
+D:\BackUp Project\ITI_FinalProject_LastVersion\Domian\obj\Release\net7.0\Domian.AssemblyInfo.cs
+D:\BackUp Project\ITI_FinalProject_LastVersion\Domian\obj\Release\net7.0\Domian.csproj.CoreCompileInputs.cache
+D:\BackUp Project\ITI_FinalProject_LastVersion\Domian\obj\Release\net7.0\Domian.dll
+D:\BackUp Project\ITI_FinalProject_LastVersion\Domian\obj\Release\net7.0\refint\Domian.dll
+D:\BackUp Project\ITI_FinalProject_LastVersion\Domian\obj\Release\net7.0\Domian.pdb
+D:\BackUp Project\ITI_FinalProject_LastVersion\Domian\obj\Release\net7.0\Domian.genruntimeconfig.cache
+D:\BackUp Project\ITI_FinalProject_LastVersion\Domian\obj\Release\net7.0\ref\Domian.dll

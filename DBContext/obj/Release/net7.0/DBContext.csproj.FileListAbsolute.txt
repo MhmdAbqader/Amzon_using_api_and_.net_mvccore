@@ -1,0 +1,30 @@
+G:\FinalProjectAPIAndMVC\FinalProject\DBContext\bin\Release\net7.0\DBContext.deps.json
+G:\FinalProjectAPIAndMVC\FinalProject\DBContext\bin\Release\net7.0\DBContext.dll
+G:\FinalProjectAPIAndMVC\FinalProject\DBContext\bin\Release\net7.0\DBContext.pdb
+G:\FinalProjectAPIAndMVC\FinalProject\DBContext\bin\Release\net7.0\Domian.dll
+G:\FinalProjectAPIAndMVC\FinalProject\DBContext\bin\Release\net7.0\Domian.pdb
+G:\FinalProjectAPIAndMVC\FinalProject\DBContext\obj\Release\net7.0\DBContext.csproj.AssemblyReference.cache
+G:\FinalProjectAPIAndMVC\FinalProject\DBContext\obj\Release\net7.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+G:\FinalProjectAPIAndMVC\FinalProject\DBContext\obj\Release\net7.0\DBContext.AssemblyInfoInputs.cache
+G:\FinalProjectAPIAndMVC\FinalProject\DBContext\obj\Release\net7.0\DBContext.AssemblyInfo.cs
+G:\FinalProjectAPIAndMVC\FinalProject\DBContext\obj\Release\net7.0\DBContext.csproj.CoreCompileInputs.cache
+G:\FinalProjectAPIAndMVC\FinalProject\DBContext\obj\Release\net7.0\DBContext.csproj.CopyComplete
+G:\FinalProjectAPIAndMVC\FinalProject\DBContext\obj\Release\net7.0\DBContext.dll
+G:\FinalProjectAPIAndMVC\FinalProject\DBContext\obj\Release\net7.0\refint\DBContext.dll
+G:\FinalProjectAPIAndMVC\FinalProject\DBContext\obj\Release\net7.0\DBContext.pdb
+G:\FinalProjectAPIAndMVC\FinalProject\DBContext\obj\Release\net7.0\ref\DBContext.dll
+D:\BackUp Project\ITI_FinalProject_LastVersion\DBContext\bin\Release\net7.0\DBContext.deps.json
+D:\BackUp Project\ITI_FinalProject_LastVersion\DBContext\bin\Release\net7.0\DBContext.dll
+D:\BackUp Project\ITI_FinalProject_LastVersion\DBContext\bin\Release\net7.0\DBContext.pdb
+D:\BackUp Project\ITI_FinalProject_LastVersion\DBContext\bin\Release\net7.0\Domian.dll
+D:\BackUp Project\ITI_FinalProject_LastVersion\DBContext\bin\Release\net7.0\Domian.pdb
+D:\BackUp Project\ITI_FinalProject_LastVersion\DBContext\obj\Release\net7.0\DBContext.csproj.AssemblyReference.cache
+D:\BackUp Project\ITI_FinalProject_LastVersion\DBContext\obj\Release\net7.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackUp Project\ITI_FinalProject_LastVersion\DBContext\obj\Release\net7.0\DBContext.AssemblyInfoInputs.cache
+D:\BackUp Project\ITI_FinalProject_LastVersion\DBContext\obj\Release\net7.0\DBContext.AssemblyInfo.cs
+D:\BackUp Project\ITI_FinalProject_LastVersion\DBContext\obj\Release\net7.0\DBContext.csproj.CoreCompileInputs.cache
+D:\BackUp Project\ITI_FinalProject_LastVersion\DBContext\obj\Release\net7.0\DBContext.csproj.CopyComplete
+D:\BackUp Project\ITI_FinalProject_LastVersion\DBContext\obj\Release\net7.0\DBContext.dll
+D:\BackUp Project\ITI_FinalProject_LastVersion\DBContext\obj\Release\net7.0\refint\DBContext.dll
+D:\BackUp Project\ITI_FinalProject_LastVersion\DBContext\obj\Release\net7.0\DBContext.pdb
+D:\BackUp Project\ITI_FinalProject_LastVersion\DBContext\obj\Release\net7.0\ref\DBContext.dll
